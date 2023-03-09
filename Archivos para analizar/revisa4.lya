@@ -1,0 +1,24 @@
+class quien_es_Mayor
+{
+       def A, B, C, mayor of integer;
+
+      output("Dame 3 valores enteros: ");
+      input (A, B, C);
+
+     if (A> B && A > C)
+     {
+        output ("El mayor es: ", A);
+     }
+     else
+     {
+          if (B>A && B> C)
+          {
+             output ("El mayor es:", B);
+          }
+          else
+          {
+              output("El mayor es:",C);
+          }
+     }
+
+}

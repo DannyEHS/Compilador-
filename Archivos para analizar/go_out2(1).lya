@@ -1,0 +1,24 @@
+for
+endfor
+
+if
+elseif
+else
+endif
+
+loop
+
+endloop
+
+eval
+
+do
+
+def define
+
+int
+float
+char
+{
+}
+[[]]

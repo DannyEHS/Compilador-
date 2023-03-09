@@ -1,0 +1,5 @@
+var id:INT;
+{
+  IF id<id THEN id:=id;
+  ENDIF
+}
